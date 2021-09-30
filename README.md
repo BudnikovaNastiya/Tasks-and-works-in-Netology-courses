@@ -1,3 +1,12 @@
+# Документы: 
+Сертификат [Введение в тестирование](https://drive.google.com/file/d/149Qk9PoiDi4iPHnv8ZuEH6yf2lf0dW3Q/view?usp=sharing)
+
+Диплом [Git — система контроля версий](https://drive.google.com/file/d/1f0D3jg3mQwpwhz79wq_H12CLxy843sRU/view?usp=sharing)
+
+Сертификат [Java для тестировщиков](https://drive.google.com/file/d/1Q7fBeooYQLgNAluO-v12s5vZfIrnAFpH/view?usp=sharing)
+
+Свидетельство [Автоматизированное тестирование](https://drive.google.com/file/d/1QgJfjAZXkoAU5PEprEuvvPyJgXlq7iUD/view?usp=sharing)
+
 # Домашние задания к курсу "Введение в тестирование"
 
 ### 1. Теория
