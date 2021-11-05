@@ -7,6 +7,10 @@
 
 Свидетельство [Автоматизированное тестирование](https://drive.google.com/file/d/1QgJfjAZXkoAU5PEprEuvvPyJgXlq7iUD/view?usp=sharing)
 
+Свидетельство [Дипломный блок профессии Тестировщик](https://drive.google.com/file/d/1nKoGUpw7w_eHrUeEQHx2x-7EZzq2Q1IV/view?usp=sharing)
+
+Свидетельство [Тестировщик ПО](https://drive.google.com/file/d/1IHUg2jq6GNndgNaT4PtRNrQkn_2-clT5/view?usp=sharinghttps://drive.google.com/file/d/1IHUg2jq6GNndgNaT4PtRNrQkn_2-clT5/view?usp=sharing)
+
 # Домашние задания к курсу "Введение в тестирование"
 
 ### 1. Теория
@@ -38,7 +42,7 @@
 2.5. [Жизненный цикл разработки ПО. Гибкие методологии разработки ПО](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.5/) - мои работы
 [1](https://docs.google.com/document/d/1Uxd0msy9f-u_YjvuaGz1MXd_Xi83H3gnhyRqDkNj5oY/edit?usp=sharing)
 
-[Курсовой проект к модулю "Введение в тестирование"](https://github.com/BudnikovaNastiya/iqa-diplom) - [моя работа](https://docs.google.com/spreadsheets/d/18xnJir8Mnz8yhD1MB4nsQ9xfOmp-rqqHV1DhPc37fYM/edit?usp=sharing) 
+### [Курсовой проект к модулю "Введение в тестирование"](https://github.com/BudnikovaNastiya/iqa-diplom) - [моя работа](https://docs.google.com/spreadsheets/d/18xnJir8Mnz8yhD1MB4nsQ9xfOmp-rqqHV1DhPc37fYM/edit?usp=sharing) 
 
 # Домашние задания по курсу «Git - система контроля версий»
 
@@ -123,3 +127,5 @@
 
 3.2. [SQL](shttps://github.com/BudnikovaNastiya/aqa-homeworks/blob/master/sql) - мои работы
 [1](https://github.com/BudnikovaNastiya/a3-2-1)
+
+# [Дипломный проект профессии «Тестировщик»](https://github.com/netology-code/qa-diploma) - [моя работа](https://github.com/BudnikovaNastiya/QA-Diploma) 
